@@ -2,8 +2,11 @@
 
 Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer...
 
--> Computer Science BSc. @ University of Brighton
--> Favourite Media
+-> Computer Science BSc. @ University of Brighton <br>
+
+<details>
+<summary>Favourite Media</summary>
+</details>
     -> Games 
         - Persona 5 Royal
         - Nier Automata 
