@@ -6,9 +6,10 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 <details open>
     <summary>Favourite Media</summary>
-    + <details>
-    <summary>Games</summary>
-  
+    
++ <details>
+<summary>Games</summary>
+</details>
 
 <details>
 <summary>Anime</summary>
