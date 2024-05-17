@@ -6,20 +6,13 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 <details open>
     <summary>Favourite Media</summary>
-    <details>
+   + <details>
        <summary>Games</summary>
-        + Persona 5 Royal
-        + Nier Automata 
-        + Final Fantasy XIV Online
-        + Ghost of Tsushima 
+        - Persona 5 Royal
+        - Nier Automata 
+        - Final Fantasy XIV Online
+        - Ghost of Tsushima 
     </details>
-
-+ <summary>Anime</summary>
-
-+ <summary>Manga</summary>
-
-+ <summary>TV Shows</summary>
-</details>
   </details>
 
     -> Games 
