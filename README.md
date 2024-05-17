@@ -4,9 +4,23 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 -> Computer Science BSc. @ University of Brighton <br>
 
+**Favourite Media**
 <details>
-<summary>Favourite Media</summary>
+<summary>Games</summary>
 </details>
+
+<details>
+<summary>Anime</summary>
+</details>
+
+<details>
+<summary>Manga</summary>
+</details>
+
+<details>
+<summary>TV Shows</summary>
+</details>
+
     -> Games 
         - Persona 5 Royal
         - Nier Automata 
