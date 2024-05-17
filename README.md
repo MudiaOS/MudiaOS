@@ -8,7 +8,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
     <summary>**Favourite Media**</summary>
     + <details>
     <summary>Games</summary>
-    </details>
+  
 
 <details>
 <summary>Anime</summary>
@@ -22,7 +22,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 <summary>TV Shows</summary>
 </details>
 </details>
-
+  </details>
 
     -> Games 
         - Persona 5 Royal
