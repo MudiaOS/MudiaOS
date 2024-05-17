@@ -4,8 +4,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 -> Computer Science BSc. @ University of Brighton <br>
 
-<details open>
-    <summary>Favourite Media</summary>
+**Favourite Media**
    <details>
        <summary>Games</summary>
         <ul>
@@ -13,14 +12,8 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
             <li>Nier Automata</li>
             <li>Final Fantasy XIV Online</li>
             <li>Ghost of Tsushima</li>
-
         </ul>
-       - Persona 5 Royal
-        - Nier Automata 
-        - Final Fantasy XIV Online
-        - Ghost of Tsushima 
-    </details>
-  </details>
+   </details>
 
     -> Games 
         - Persona 5 Royal
