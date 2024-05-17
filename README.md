@@ -4,8 +4,8 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 -> Computer Science BSc. @ University of Brighton <br>
 
-<details>
-    <summary>**Favourite Media**</summary>
+<details open>
+    <summary>Favourite Media</summary>
     + <details>
     <summary>Games</summary>
   
