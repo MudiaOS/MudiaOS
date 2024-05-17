@@ -4,10 +4,11 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 -> Computer Science BSc. @ University of Brighton <br>
 
-**Favourite Media**
 <details>
-<summary>Games</summary>
-</details>
+    <summary>**Favourite Media**</summary>
+    + <details>
+    <summary>Games</summary>
+    </details>
 
 <details>
 <summary>Anime</summary>
@@ -20,6 +21,8 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 <details>
 <summary>TV Shows</summary>
 </details>
+</details>
+
 
     -> Games 
         - Persona 5 Royal
