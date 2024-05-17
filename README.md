@@ -1,10 +1,10 @@
-**Digital Craftsman (Developer/Violinist/Creator/Artist)**
+[Personal Website (Coming Soon)](url) 
 
 Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer...
 
 -> Computer Science BSc. @ University of Brighton <br>
 
-<h2>**Favourite Media**</h2>
+<h2>Favourite Media</h2>
    <details>
   <summary>Games</summary>
         <ul>
@@ -43,7 +43,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
  
    </details>
     
-[Personal Website (Coming Soon)](url) 
+
     
 ## Tools
 
