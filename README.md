@@ -9,19 +9,15 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
     
 + <details>
 <summary>Games</summary>
-</details>
 
 + <details>
 <summary>Anime</summary>
-</details>
 
 + <details>
 <summary>Manga</summary>
-</details>
 
 + <details>
 <summary>TV Shows</summary>
-</details>
 </details>
   </details>
 
