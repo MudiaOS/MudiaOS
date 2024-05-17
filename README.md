@@ -11,15 +11,15 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 <summary>Games</summary>
 </details>
 
-<details>
++ <details>
 <summary>Anime</summary>
 </details>
 
-<details>
++ <details>
 <summary>Manga</summary>
 </details>
 
-<details>
++ <details>
 <summary>TV Shows</summary>
 </details>
 </details>
