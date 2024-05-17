@@ -1,10 +1,10 @@
-Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer...
+Hi there :wave: Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer... <br>
 
-Computer Science BSc. @ University of Brighton
+:mortar_board: Computer Science BSc. @ University of Brighton...
 
-<h2>Favourite Media</h2>
+<h2>⏯️ Favourite Media</h2>
    <details>
-  <summary>Games</summary>
+  <summary>🎮 Games</summary>
         <ul>
             <li>Persona 5 Royal</li>
             <li>Nier Automata</li>
@@ -13,7 +13,7 @@ Computer Science BSc. @ University of Brighton
         </ul>
    </details>
       <details>
-       <summary>Anime</summary>
+       <summary>👹 Anime</summary>
         <ul>
             <li>Neon Genesis Evangelion</li>
             <li>Hajime no Ippo</li>
@@ -22,7 +22,7 @@ Computer Science BSc. @ University of Brighton
         </ul>
    </details>
       <details>
-       <summary>Manga</summary>
+       <summary>📖 Manga</summary>
         <ul>
             <li>Berserk</li>
             <li>Vinland Saga</li>
@@ -31,19 +31,18 @@ Computer Science BSc. @ University of Brighton
         </ul>
    </details>
          <details>
-       <summary>TV Shows</summary>
+       <summary>📺 TV Shows</summary>
         <ul>
             <li>Breaking Bad</li>
             <li>Game of Thrones</li>
             <li>The Boys</li>
             <li>Invincible</li>
         </ul>
- 
    </details>
     
 
     
-## Tools
+## 🧰 Tools
 
 ***Linux*** 
 - ArchLinux
@@ -56,12 +55,12 @@ Computer Science BSc. @ University of Brighton
 - React 
 - Neovim
 - Java 
-- Bash
+- Bash 
 - Git 
 
-## Stats 
+## 📈 Stats 
 
-## Links
+## 🔗 Links
 - Steam
 - Discord
 - Spotify 
