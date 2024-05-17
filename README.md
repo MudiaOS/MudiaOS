@@ -1,7 +1,4 @@
-# MudiaOS
-Est 2024
-
-**'Digital Craftsman [Developer/Violinist/Creator/Artist]'**
+**Digital Craftsman (Developer/Violinist/Creator/Artist)**
 
 Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer...
 
