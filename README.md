@@ -1,8 +1,6 @@
-[Personal Website (Coming Soon)](url) 
+Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer...
 
-Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming software developer...
-
--> Computer Science BSc. @ University of Brighton <br>
+Computer Science BSc. @ University of Brighton
 
 <h2>Favourite Media</h2>
    <details>
