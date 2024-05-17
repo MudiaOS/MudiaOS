@@ -7,17 +7,13 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 <details open>
     <summary>Favourite Media</summary>
     
-+ <details>
-<summary>Games</summary>
++ <summary>Games</summary>
 
-+ <details>
-<summary>Anime</summary>
++ <summary>Anime</summary>
 
-+ <details>
-<summary>Manga</summary>
++ <summary>Manga</summary>
 
-+ <details>
-<summary>TV Shows</summary>
++ <summary>TV Shows</summary>
 </details>
   </details>
 
