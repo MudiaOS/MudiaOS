@@ -14,6 +14,15 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
             <li>Ghost of Tsushima</li>
         </ul>
    </details>
+      <details>
+       <summary>Games</summary>
+        <ul>
+            <li>Persona 5 Royal</li>
+            <li>Nier Automata</li>
+            <li>Final Fantasy XIV Online</li>
+            <li>Ghost of Tsushima</li>
+        </ul>
+   </details>
 
     -> Games 
         - Persona 5 Royal
