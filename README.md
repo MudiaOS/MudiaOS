@@ -15,40 +15,32 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
         </ul>
    </details>
       <details>
-       <summary>Games</summary>
+       <summary>Anime</summary>
         <ul>
-            <li>Persona 5 Royal</li>
-            <li>Nier Automata</li>
-            <li>Final Fantasy XIV Online</li>
-            <li>Ghost of Tsushima</li>
+            <li>Neon Genesis Evangelion</li>
+            <li>Hajime no Ippo</li>
+            <li>One Piece</li>
+            <li>Mobile Suit Gundam</li>
         </ul>
    </details>
-
-    -> Games 
-        - Persona 5 Royal
-        - Nier Automata 
-        - Final Fantasy XIV Online
-        - Ghost of Tsushima 
-
-    -> Anime 
-        - Neon Genesis Evangelion 
-        - Hajime no Ippo
-        - One Piece
-        - Mobile Suit Gundam
-
-    -> Manga
-        - Berserk
-        - Vinland Saga 
-        - Vagabond 
-        - Fire Punch 
-
-
-    -> TV Shows 
-        - Breaking Bad
-        - Game of Thrones 
-        - The Boys
-        - Invincible 
-
+      <details>
+       <summary>Manga</summary>
+        <ul>
+            <li>Berserk</li>
+            <li>Vinland Saga</li>
+            <li>Vagabond</li>
+            <li>Fire Punch</li>
+        </ul>
+   </details>
+         <details>
+       <summary>TV Shows</summary>
+        <ul>
+            <li>Breaking Bad</li>
+            <li>Game of Thrones</li>
+            <li>The Boys</li>
+            <li>Invincible</li>
+        </ul>
+   </details>
     
 [Personal Website (Coming Soon)](url) 
     
