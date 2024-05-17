@@ -6,7 +6,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 **Favourite Media**
    <details>
-       <summary>Games</summary>
+     <ul> <summary>Games</summary>
         <ul>
             <li>Persona 5 Royal</li>
             <li>Nier Automata</li>
@@ -40,6 +40,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
             <li>The Boys</li>
             <li>Invincible</li>
         </ul>
+            </ul> 
    </details>
     
 [Personal Website (Coming Soon)](url) 
