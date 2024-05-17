@@ -4,9 +4,9 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
 
 -> Computer Science BSc. @ University of Brighton <br>
 
-**Favourite Media**
+<h2>**Favourite Media**</h2>
    <details>
-     <ul> <summary>Games</summary>
+  <summary>Games</summary>
         <ul>
             <li>Persona 5 Royal</li>
             <li>Nier Automata</li>
@@ -40,7 +40,7 @@ Hi there :wave Welcome to my GitHub Page! I'm a linux enthusist and upcoming sof
             <li>The Boys</li>
             <li>Invincible</li>
         </ul>
-            </ul> 
+ 
    </details>
     
 [Personal Website (Coming Soon)](url) 
