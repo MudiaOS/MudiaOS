@@ -30,19 +30,19 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
       <details>
        <summary>📖 Manga</summary>
         <ul>
-            <li>Berserk</li>
-            <li>Vinland Saga</li>
-            <li>Vagabond</li>
-            <li>Fire Punch</li>
+            <li><a href='https://anilist.co/manga/30002/Berserk/'>Berserk</a></li>
+            <li><a href='https://anilist.co/manga/30642/Vinland-Saga/'>Vinland Saga</a></li>
+            <li><a href='https://anilist.co/manga/30656/Vagabond/'>Vagabond</a></li>
+            <li><a href='https://anilist.co/manga/87170/Fire-Punch/'>Fire Punch</a></li>
         </ul>
    </details>
          <details>
        <summary>📺 TV Shows</summary>
         <ul>
-            <li>Breaking Bad</li>
-            <li>Game of Thrones</li>
-            <li>The Boys</li>
-            <li>Invincible</li>
+            <li><a href='https://www.imdb.com/title/tt0903747/'>Breaking Bad</a></li>
+            <li><a href='https://www.imdb.com/title/tt0944947/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_game%2520of%2520thro'>Game of Thrones</a></li>
+            <li><a href='https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_the%2520boys'>The Boys</a></li>
+            <li><a href='https://www.imdb.com/title/tt6741278/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_invinc'>Invincible</a></li>
         </ul>
    </details>
     
