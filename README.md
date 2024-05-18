@@ -8,7 +8,7 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 <p align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=FFFFFF&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img>
 </p>
-<h2>⏯️ Favourite Media</h2>
+<h2>Favourite Media ⏯️ </h2>
    <details>
   <summary>🎮 Games</summary>
         <ul>
@@ -48,7 +48,7 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
     
 
     
-## 🧰 Tools
+## Tools 🧰 
 
 ***Linux*** <br>
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -82,9 +82,9 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white)
 
 
-## 📈 Stats 
+## Stats 📈 
 
-## 🔗 Links
+## Links 🔗 
 - Steam
 - Discord
 - Spotify 
