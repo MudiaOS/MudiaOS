@@ -1,7 +1,9 @@
 **<p align='center'>Welcome to my GitHub Page! :wave: I'm a linux enthusist and upcoming software developer. <br>
 I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
-<img src='./img/e.gif' align='center' width='150px'></img>
+<p align='center'>
+   <img src='./img/e.gif' width='150px'></img>
+</p>
 
 <p align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=FFFFFF&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img>
