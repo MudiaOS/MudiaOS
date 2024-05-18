@@ -12,10 +12,10 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
    <details>
   <summary>🎮 Games</summary>
         <ul>
-            <li>Persona 5 Royal</li>
-            <li>Nier Automata</li>
-            <li>Final Fantasy XIV Online</li>
-            <li>Ghost of Tsushima</li>
+            <li><img width=20 src='./img/persona-img.png'>Persona 5 Royal</li>
+            <li><img width=20 src='./img/nier-icon.png'>Nier Automata</li>
+            <li><img width=20 src='./img/ffxiv-icon.png'>Final Fantasy XIV Online</li>
+            <li><img width=20 src='./img/ghost-icon.png'>Ghost of Tsushima</li>
         </ul>
    </details>
       <details>
