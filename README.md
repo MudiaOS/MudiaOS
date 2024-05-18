@@ -90,11 +90,11 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
    
 ## Links 🔗 
-- Steam
-- Discord
-- Spotify 
-- YouTube 
-- AniList
+<p align="center">
+<a href="https://steamcommunity.com/profiles/76561199681540925/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><a href="https://open.spotify.com/user/31rafwwumk7xcifkjtnuidlfniui?si=2dab338fa19844a9"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a><a href="https://anilist.co/user/MudiaOS/"><img src="https://img.shields.io/badge/AniList-AniList-blue?style=for-the-badge&logo=Anilist&logoColor=white&labelColor=blue&color=blue&label="></a></a><br><br><br>
+<img align="center" width=150px src="./img/luffy-one-piece.gif"><br><br>
+</p>
+<div align="center">
 
+> I can do all things through Christ who gives me strength. - Philippians 4:13
 
-> Something Something Something
