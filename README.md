@@ -21,10 +21,10 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
       <details>
        <summary>👹 Anime</summary>
         <ul>
-            <li>Neon Genesis Evangelion</li>
-            <li>Hajime no Ippo</li>
-            <li>One Piece</li>
-            <li>Mobile Suit Gundam</li>
+            <li><a href='https://anilist.co/anime/30/Neon-Genesis-Evangelion/'>Neon Genesis Evangelion</a></li>
+            <li><a href='https://anilist.co/anime/263/Hajime-no-Ippo-The-Fighting/'>Hajime no Ippo</a></li>
+            <li><a href='https://anilist.co/anime/21/ONE-PIECE/'>One Piece</a></li>
+            <li><a href='https://anilist.co/anime/80/Mobile-Suit-Gundam/'>Mobile Suit Gundam</a></li>
         </ul>
    </details>
       <details>
