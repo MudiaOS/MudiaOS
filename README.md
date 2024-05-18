@@ -83,12 +83,10 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
 
 ## Stats 📈 
-
-![MudiaOS's Stats](https://github-readme-stats.vercel.app/api?username=MudiaOS&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![MudiaOS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MudiaOS&theme=material-palenight&hide_border=true)
-
-<p align="center">
-<img width=351 src="https://readme-stats-mudiaos.vercel.app/api?username=MudiaOS&theme=dracula&show_icons=true&count_private=true&show_icons=true">&nbsp;<img width=294 src="https://readme-stats-mudiaos.vercel.app/api/top-langs?username=Spelljinxer&layout=compact&theme=dracula&custom_title=Top&nbsp;Languages"/><br>
+<p align='center'>
+   <img src='https://github-readme-stats.vercel.app/api?username=MudiaOS&theme=material-palenight&show_icons=true&hide_border=true&count_private=true'>
+   <img src='https://github-readme-streak-stats.herokuapp.com/?user=MudiaOS&theme=material-palenight&hide_border=true'>
+</p>
 
    
 ## Links 🔗 
