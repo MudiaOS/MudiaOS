@@ -1,7 +1,7 @@
 **<p align='center'>Welcome to my GitHub Page! :wave: I'm a linux enthusist and upcoming software developer. <br>
 I study Computer Science BSc. @ University of Brighton :mortar_board:</p>**
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=E46D91&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&duration=3500&pause=1000&color=FFFFFF&center=true&width=435&lines=01010111+01100101+01101100+01100011+01101111+01101101+01100101"></img>
 
 <h2>⏯️ Favourite Media</h2>
    <details>
