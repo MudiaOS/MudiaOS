@@ -85,7 +85,6 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 ## Stats 📈 
 <p align='center'>
    <img src='https://github-readme-stats.vercel.app/api?username=MudiaOS&theme=material-palenight&show_icons=true&hide_border=true&count_private=true'>
-   <img src='https://github-readme-streak-stats.herokuapp.com/?user=MudiaOS&theme=material-palenight&hide_border=true'>
 </p>
 
    
