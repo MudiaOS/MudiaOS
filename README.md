@@ -2,7 +2,7 @@
 I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
 <p align='center'>
-   <img src='./img/mudiaos-logo.png' width='150px'></img>
+   <img width= 100 src='./img/mudiaos-logo.png' width='150px'></img>
 </p>
 
 <p align='center'>
