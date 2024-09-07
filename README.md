@@ -1,4 +1,4 @@
-**<p align='center'>Welcome to my GitHub Page! :wave: I'm a linux enthusist and upcoming software developer. <br>
+**<p align='center'>Welcome to my GitHub Page! :wave: I'm a tech enthusist and upcoming software developer. <br>
 I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
 <p align='center'>
