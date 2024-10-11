@@ -42,7 +42,7 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
             <li><a href='https://www.imdb.com/title/tt0903747/'>Breaking Bad</a></li>
             <li><a href='https://www.imdb.com/title/tt0944947/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_game%2520of%2520thro'>Game of Thrones</a></li>
             <li><a href='https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_the%2520boys'>The Boys</a></li>
-            <li><a href='https://www.imdb.com/title/tt6741278/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_invinc'>Invincible</a></li>
+            <li><a href='https://www.imdb.com/title/tt6470478/'>The Good Doctor</a></li>
         </ul>
    </details>
     
